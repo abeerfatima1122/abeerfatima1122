@@ -18,12 +18,18 @@ I'm Abeer Fatima, an AI & Data Science enthusiast pursuing a BS in AI at DUET, K
 ![](https://github-profile-trophy.vercel.app/?username=abeerfatima1122&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abeerfatima1122&limit=5&theme=light_all_yearly_contributions=true)
+<!-- GitHub Contributor Statistics -->
+### 📊 Top Contributions  
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=abeerfatima1122&limit=5&theme=light&all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abeerfatima1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Visit Counter -->
+[![Profile Views](https://visitcount.itsvg.in/api?id=abeerfatima1122&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Credits -->
+<!-- Designed with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abeerfatima1122/abeerfatima1122/output/github-snake-dark.svg" />
