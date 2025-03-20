@@ -2,7 +2,7 @@
 I'm Abeer Fatima, an AI & Data Science enthusiast pursuing a BS in AI at DUET, Karachi. Passionate about ML, DL, and Data Analytics.<br> AI/ML Intern at DHC |  Data Analytics Intern at CodeAlpha  <br> Skills: Python, Scikit-Learn, TensorFlow, Keras, Power BI, SQL  <br><br>🔗 [LinkedIn](https://www.linkedin.com/in/abeer-fatima--) | 📧 abeerfatima1144@gmail.com 
 
 
-## 🌐 Socials:
+#  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abeer-fatima--) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abeerfatima1144@gmail.com) 
 
 # 💻 Tech Stack:
