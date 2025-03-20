@@ -20,15 +20,16 @@ I'm Abeer Fatima, an AI & Data Science enthusiast pursuing a BS in AI at DUET, K
 ###  Top Contributed Repo
 <!-- GitHub Contributor Statistics -->
 ### 📊 Top Contributions  
+### 📊 Top Contributions  
 ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=abeerfatima1122&limit=5&theme=light&all_yearly_contributions=true)
 
 ---
 
-<!-- Visit Counter -->
 [![Profile Views](https://visitcount.itsvg.in/api?id=abeerfatima1122&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Credits -->
 <!-- Designed with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 
 <picture>
