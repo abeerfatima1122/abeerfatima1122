@@ -22,7 +22,7 @@ I'm Abeer Fatima, an AI & Data Science enthusiast pursuing a BS in AI at DUET, K
 
 ---
 
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-100+-blue)](https://github.com/abeerfatima1122)
+[![Profile Views](https://img.shields.io/badge/Profile%100Views-1,000+-blue)](https://github.com/abeerfatima1122)
 
 
 <picture>
